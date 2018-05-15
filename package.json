@@ -1,0 +1,12 @@
+{
+  "name": "algolia-getting-started",
+  "scripts": {
+    "load": "node -r dotenv/config src/loading.js"
+  },
+  "dependencies": {
+    "@types/algoliasearch": "^3.27.1",
+    "algoliasearch": "^3.27.1",
+    "autocomplete.js": "^0.30.0",
+    "dotenv": "^5.0.1"
+  }
+}
